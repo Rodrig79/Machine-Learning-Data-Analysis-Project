@@ -26,7 +26,6 @@ Last five datasamples (as of 4/26/20): <br>
 
 |date   |state   |cases   |deaths   | cases_per_capita |deaths_per_capita |state_population
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-
 |2020-05-07|	Virginia	|21570	|769	|252.7	|9.0	|8535519
 |2020-05-07| 	Washington|	17334|	903|	227.6|	11.9|	7614893
 |2020-05-07|	West Virginia|	1297|	51|	72.4|	2.9|	1792147
