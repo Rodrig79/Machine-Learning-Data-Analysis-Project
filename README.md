@@ -63,7 +63,7 @@ Attributes (Columns): 3<br>
 
 First five datasamples:<br>
 |State|Enacted|Date_of_Enactment|Economy_Related|Public_Health_Related|Bill_Summary
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 |Alabama	|TRUE	|2020-04-02	|FALSE	|TRUE|SJR 40  Urges individuals to fist bump rather than shake hands. Enacted.| 
 |Alabama	|TRUE	|2020-03-12	|TRUE	|TRUE|SR 49  Urges Congress to fund additional rental assistance due to coronavirus. Adopted.|
 |Alabama	|TRUE	|2020-05-05	|FALSE	|FALSE|SR 60  Relates to no excuse absentee voting, Legislature urged to adopt. Adopted.|
