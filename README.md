@@ -8,19 +8,19 @@ Zachary Chandler
 Description: This dataset has the cumulative counts of coronavirus cases in the United States, at the state and county level, over time. This data is taken from state and local governments and health departments in order to provide a complete record of the outbreak in the United States.<br>
 <br>
 Size of dataset: <br>
-Instances (Rows): 3040<br>
-Attributes (Columns): 5<br>
+Instances (Rows): 3549<br>
+Attributes (Columns): 7<br>
 <br>
 <h3>Data Samples:</h3><br>
 First five datasamples:<br>
 
-|date   |state   |fips   |cases   |deaths   |
-|:-:|:-:|:-:|:-:|:-:|
-|2020-01-21|	Washington|	53|	1|	0|
-|2020-01-22|	Washington	|53	|1	|0|
-|2020-01-23|	Washington|	53	|1	|0|
-|2020-01-24|	Illinois	|17	|1	|0|
-|2020-01-24|	Washington|	53	|1 |	0|
+|date   |state   |cases   |deaths   | cases_per_capita |deaths_per_capita |state_population
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|2020-01-21|	Washington|	1|	0|	0.0| 0.0| 7614893
+|2020-01-21|	Washington|	1|	0|	0.0| 0.0| 7614893
+|2020-01-21|	Washington|	1|	0|	0.0| 0.0| 7614893
+|2020-01-21|	Washington|	1|	0|	0.0| 0.0| 7614893
+|2020-01-21|	Washington|	1|	0|	0.0| 0.0| 7614893
 
 Last five datasamples (as of 4/26/20): <br>
 
