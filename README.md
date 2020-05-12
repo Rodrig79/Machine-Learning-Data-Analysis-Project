@@ -13,6 +13,7 @@ Attributes (Columns): 7<br>
 <br>
 <h3>Data Samples:</h3><br>
 First five datasamples:<br>
+<br>
 
 |date   |state   |cases   |deaths   | cases_per_capita |deaths_per_capita |state_population
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
