@@ -62,13 +62,13 @@ Attributes (Columns): 3<br>
 <h3>Data Samples:</h3><br>
 
 First five datasamples:<br>
-|State|Enacted|Date_of_Enactment|Economy_Related|Public_Health_Related|Misc_Related|Bill_Summary
+|State|Enacted|Date_of_Enactment|Economy_Related|Public_Health_Related|Bill_Summary
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|Alabama	|TRUE	|2020-04-02	|FALSE	|TRUE	|FALSE	|SJR 40  Urges individuals to fist bump rather than shake hands. Enacted.| 
-|Alabama	|TRUE	|2020-03-12	|TRUE	|TRUE	|FALSE	|SR 49  Urges Congress to fund additional rental assistance due to coronavirus. Adopted.|
-|Alabama	|TRUE	|2020-05-05	|FALSE	|FALSE	|TRUE	|SR 60  Relates to no excuse absentee voting, Legislature urged to adopt. Adopted.|
-|Alabama	|FALSE	|NA	|FALSE	|TRUE	|FALSE	|HR 107  Urges the promotion, sharing and posting of practices to reduce the spread of infectious diseases. Pending.|
-|Alabama	|FALSE	|NA	|TRUE	|TRUE	|FALSE	|HJR 121/HJR 122  Urges the Governor to expand Medicaid coverage for new mothers in response to the current COVID-19 pandemic. Pending.|
+|Alabama	|TRUE	|2020-04-02	|FALSE	|TRUE|SJR 40  Urges individuals to fist bump rather than shake hands. Enacted.| 
+|Alabama	|TRUE	|2020-03-12	|TRUE	|TRUE|SR 49  Urges Congress to fund additional rental assistance due to coronavirus. Adopted.|
+|Alabama	|TRUE	|2020-05-05	|FALSE	|FALSE|SR 60  Relates to no excuse absentee voting, Legislature urged to adopt. Adopted.|
+|Alabama	|FALSE	|NA	|FALSE	|TRUE|HR 107  Urges the promotion, sharing and posting of practices to reduce the spread of infectious diseases. Pending.|
+|Alabama	|FALSE	|NA	|TRUE	|TRUE	|HJR 121/HJR 122  Urges the Governor to expand Medicaid coverage for new mothers in response to the current COVID-19 pandemic. Pending.|
 
 
 
