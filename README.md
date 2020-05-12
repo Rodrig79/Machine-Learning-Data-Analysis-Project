@@ -24,13 +24,17 @@ First five datasamples:<br>
 
 Last five datasamples (as of 4/26/20): <br>
 
-|date   |state   |fips   |cases   |deaths   |
-|:-:|:-:|:-:|:-:|:-:|
-|2020-04-26	|Virginia	|51	|12970	|448|
-|2020-04-26	|Washington	|53	|13663	|757|
-|2020-04-26	|West Virginia	|54	|1053	|34|
-|2020-04-26	|Wisconsin	|55	|5911	|274|
-|2020-04-26	|Wyoming	|56	|371	|7|
+|date   |state   |cases   |deaths   | cases_per_capita |deaths_per_capita |state_population
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+
+|2020-05-07|	Virginia	|21570	|769	|252.7	|9.0	|8535519
+|2020-05-07| 	Washington|	17334|	903|	227.6|	11.9|	7614893
+|2020-05-07|	West Virginia|	1297|	51|	72.4|	2.9|	1792147
+|2020-05-07|	Wisconsin|	9215|	374|	158.3|	6.4|	5822434
+|2020-05-07|	Wyoming|	635|	7	|109.7|	1.2|	578759
+
+
+
 
 <h3>Attributes:</h3>
 Date: date of confirmed cases and deaths
