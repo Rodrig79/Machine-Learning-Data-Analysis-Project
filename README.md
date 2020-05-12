@@ -22,7 +22,7 @@ First five datasamples:<br>
 |2020-01-21|	Washington|	1|	0|	0.0| 0.0| 7614893
 |2020-01-21|	Washington|	1|	0|	0.0| 0.0| 7614893
 
-Last five datasamples (as of 4/26/20): <br>
+Last five datasamples (as of 5/7/20): <br>
 
 |date   |state   |cases   |deaths   | cases_per_capita |deaths_per_capita |state_population
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
