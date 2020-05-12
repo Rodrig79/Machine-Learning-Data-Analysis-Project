@@ -72,15 +72,16 @@ First five datasamples:<br>
 
 
 
-Last five datasamples (as of 4/26/20): <br>
+Last five datasamples (as of 5/7/20): <br>
 
-|State|Bill Summary|Date of Enactment|
-|:-:|:-:|:-:|
-|Washington|SB 6189  Clarifies eligibility for School Employees' Benefits Board coverage of substitute teachers; and of school employees during quarantine or school closures due to COVID-19. Enacted.|2020-03-17|
-|Wisconsin|SR 7  Acknowledges that the Communist Party of China deliberately and intentionally misled the world on the Wuhan Coronavirus; stands in solidarity with the Chinese people to condemn the actions of the Communist Party of China. Failed.|-|
-|Wisconsin|SB 927  Exempts pharmaceutical, treatment, and other medical supplies used for treating coronavirus from the Unfair Sales Act, also called the minimum markup law, during the public health emergency due to coronavirus. Failed.|-|
-|Wisconsin|AB 1035  Exempts pharmaceutical, treatment, and other medical supplies used for treating COVID-19 from the Unfair Sales Act, also called the minimum markup law, during the public health emergency declared on March 12, 2020. Failed. |-|
-|Wisconsin|AB 1038  Relates to the state government response to the coronavirus pandemic; authorizes limited autopsies for the death of an inmate due to COVID-19; establishes a civil liability exemption for persons who manufacture, distribute or sell emergency medical supplies to respond to the public health emergency. Enacted.|2020-04-15|
+|State|Enacted|Date_of_Enactment|Economy_Related|Public_Health_Related|Bill_Summary
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Washington	|TRUE	|2020-03-17	|TRUE	|TRUE	|SB 6189  Clarifies eligibility for School Employees' Benefits Board coverage of substitute teachers; and of school employees during quarantine or school closures due to COVID-19. Enacted.|
+|Wisconsin	|FALSE	|NA	|FALSE	|FALSE	|SR 7  Acknowledges that the Communist Party of China deliberately and intentionally misled the world on the Wuhan Coronavirus; stands in solidarity with the Chinese people to condemn the actions of the Communist Party of China. Failed.|
+|Wisconsin	|FALSE	|NA	|TRUE	|TRUE	|SB 927  Exempts pharmaceutical, treatment, and other medical supplies used for treating coronavirus from the Unfair Sales Act, also called the minimum markup law, during the public health emergency due to coronavirus. Failed.|
+|Wisconsin	|FALSE	|NA	|TRUE	|TRUE	|AB 1035  Exempts pharmaceutical, treatment, and other medical supplies used for treating COVID-19 from the Unfair Sales Act, also called the minimum markup law, during the public health emergency declared on March 12, 2020. Failed.|
+|Wisconsin	|TRUE	|2020-04-15	|TRUE	|TRUE	|AB 1038  Relates to the state government response to the coronavirus pandemic; authorizes limited autopsies for the death of an inmate due to COVID-19; establishes a civil liability exemption for persons who manufacture, distribute or sell emergency medical supplies to respond to the public health emergency. Enacted.|
+
 <h3>Attributes:</h3>
 State: US State where the bill is proposed.
 
