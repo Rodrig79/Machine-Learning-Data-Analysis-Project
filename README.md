@@ -36,15 +36,17 @@ Last five datasamples (as of 5/7/20): <br>
 
 
 <h3>Attributes:</h3>
-Date: date of confirmed cases and deaths
+Date: date of confirmed cases and deaths. We changed the format from the raw data to make data visualization easier.
 
 State: US State of confirmed cases and deaths
-
-FIPS: a FIPS code, a standard geographic identifier to make it easier for an analyst to combine this data with other data sets like a map file or population data.
 
 Cases: Cumulative cases of COVID-19 to date.
 
 Deaths: Cumulative deaths from COVID-19 to date.
+
+Cases Per Capita: We used an function to take the number of cases divided by the state's population, then multiplied that value by 100,000 to obtain the cases per capita for that row. Cases per capita = (Cases/State Population) * 100,000 
+
+Deaths Per Capita: Used the same function as cases per capita Deaths per capita = (Deaths/State Population) * 100,000 
 
 <h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
 
