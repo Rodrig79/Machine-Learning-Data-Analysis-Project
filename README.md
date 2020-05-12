@@ -61,11 +61,9 @@ Attributes (Columns): 3<br>
 <br>
 <h3>Data Samples:</h3><br>
 First five datasamples:<br>
-<br>
-
 |State|Bill Summary|Date of Enactment|Economic|Public Health|Adopted
 |:-:|:-:|:-:|:-:|:-:|
-|Alabama|SJR 40  Urges individuals to fist bump rather than shake hands. Enacted|2020-04-02|FALSE|TRUE|TRUE|
+|Alabama|Urges individuals to fist bump rather than shake hands. Enacted|2020-04-02|FALSE|TRUE|TRUE|
 
 
 |Alabama|SR 49  Urges Congress to fund additional rental assistance due to coronavirus. Adopted.|2020-03-12|TRUE|TRUE|TRUE|
