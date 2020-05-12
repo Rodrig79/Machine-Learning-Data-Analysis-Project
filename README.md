@@ -49,6 +49,8 @@ Cases Per Capita: We used an function to take the number of cases divided by the
 
 Deaths Per Capita: Used the same function as cases per capita Deaths per capita = (Deaths/State Population) * 100,000 
 
+Population: Estimated state population in 2019. Used to calculate Cases and Deaths per capita.
+
 <h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
 
 
@@ -85,8 +87,15 @@ Last five datasamples (as of 5/7/20): <br>
 <h3>Attributes:</h3>
 State: US State where the bill is proposed.
 
+Enacted: If the proposed bill was signed into law.
+
+Date_Enactment:  Date of when the bill was passed.
+
+Economy: If the bill is related to the economy. Can be True or False. Is determined through a function that scans the bill summary for keywords related to the economy.
+
+Health: If the bill is related to public health. Can be True or False. Is determined through a function that scans the bill summary for keywords related to public health.
+
 Bill Summary: A brief summary of the proposed bill.
 
-Date of Enactment:  Date of when the bill was passed.
 
 <h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
