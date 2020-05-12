@@ -62,7 +62,7 @@ Attributes (Columns): 3<br>
 <h3>Data Samples:</h3><br>
 
 First five datasamples:<br>
-|State|Enacted|Date_of_Enactment|Economy_Related|Public_Health_Related|Bill_Summary
+|State|Enacted|Date_Enactment|Economy|Health|Bill_Summary
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Alabama	|TRUE	|2020-04-02	|FALSE	|TRUE|SJR 40  Urges individuals to fist bump rather than shake hands. Enacted.| 
 |Alabama	|TRUE	|2020-03-12	|TRUE	|TRUE|SR 49  Urges Congress to fund additional rental assistance due to coronavirus. Adopted.|
@@ -74,7 +74,7 @@ First five datasamples:<br>
 
 Last five datasamples (as of 5/7/20): <br>
 
-|State|Enacted|Date_of_Enactment|Economy_Related|Public_Health_Related|Bill_Summary
+|State|Enacted|Date_Enactment|Economy|Health|Bill_Summary
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Washington	|TRUE	|2020-03-17	|TRUE	|TRUE	|SB 6189  Clarifies eligibility for School Employees' Benefits Board coverage of substitute teachers; and of school employees during quarantine or school closures due to COVID-19. Enacted.|
 |Wisconsin	|FALSE	|NA	|FALSE	|FALSE	|SR 7  Acknowledges that the Communist Party of China deliberately and intentionally misled the world on the Wuhan Coronavirus; stands in solidarity with the Chinese people to condemn the actions of the Communist Party of China. Failed.|
