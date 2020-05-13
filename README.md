@@ -50,7 +50,6 @@ Deaths Per Capita: Used the same function as cases per capita Deaths per capita 
 
 Population: Estimated state population in 2019. Used to calculate Cases and Deaths per capita.
 
-<h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
 
 
 <h1> State Action on Coronavirus (Dataset #2) </h1><br>
@@ -97,4 +96,3 @@ Health: If the bill is related to public health. Can be True or False. Is determ
 Bill Summary: A brief summary of the proposed bill.
 
 
-<h3>Appropriate measures of the central tendency and dispersion for attributes:</h3>
