@@ -1,8 +1,7 @@
 <h2>CPSC-4310 Machine Learning Data Analysis Project - Assignment 2</h2><br>
 Team Members:<br>
 Marco Rodriguez, 
-Shaun Lee, 
-Zachary Chandler 
+Shaun Lee 
 <br>
 <h1> New York Times Coronavirus (COVID-19) Data in the United States (Dataset #1) </h1><br>
 Description: This dataset has the cumulative counts of coronavirus cases in the United States, at the state and county level, over time. This data is taken from state and local governments and health departments in order to provide a complete record of the outbreak in the United States.<br>
