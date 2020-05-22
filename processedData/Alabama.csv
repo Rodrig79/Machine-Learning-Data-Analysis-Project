@@ -1,0 +1,8 @@
+date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,avg_temp_low,avg_temp_high,y1,y2
+3/23/20,Alabama,196,0,4,0,4903185,89,0,0,4,3,2,2,62,68,,
+3/30/20,Alabama,947,11,19.3,0.2,4903185,89,751,11,4,3,2,2,57,74,,
+4/6/20,Alabama,2005,53,40.9,1.1,4903185,89,1058,42,4,3,3,2,57,84,,
+4/13/20,Alabama,3805,104,77.6,2.1,4903185,89,1800,51,4,3,3,2,49,67,,
+4/20/20,Alabama,5078,164,103.6,3.3,4903185,89,1273,60,4,3,3,2,54,74,,
+4/27/20,Alabama,6539,228,133.4,4.7,4903185,89,1461,64,4,3,3,2,42,73,,
+5/4/20,Alabama,8112,298,165.4,6.1,4903185,89,1573,70,8,3,3,2,63,86,,
