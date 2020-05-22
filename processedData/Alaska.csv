@@ -1,0 +1,9 @@
+date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,avg_temp_low,avg_temp_high,y1,y2
+3/16/20,Alaska,3,0,0.4,0,731545,10,0,0,1,1,0,0,18,34,,
+3/23/20,Alaska,36,0,4.9,0,731545,10,33,0,3,1,1,1,17,43,,
+3/30/20,Alaska,119,2,16.3,0.3,731545,10,83,2,6,2,3,2,10,33,,
+4/6/20,Alaska,189,4,25.8,0.6,731545,10,70,2,8,6,3,2,24,31,,
+4/13/20,Alaska,275,6,37.6,0.8,731545,10,86,2,9,7,6,5,34,44,,
+4/20/20,Alaska,319,7,43.6,1,731545,10,44,1,9,7,6,5,38,48,,
+4/27/20,Alaska,343,7,46.9,1,731545,10,24,0,9,7,6,5,28,50,,
+5/4/20,Alaska,368,7,50.3,1,731545,10,25,0,9,7,6,5,42,52,,
