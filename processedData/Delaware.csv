@@ -1,0 +1,9 @@
+date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,avg_temp_low,avg_temp_high,y1,y2
+3/16/20,Delaware,8,0,0.8,0,973764,8,0,0,0,0,0,0,35,51,,
+3/23/20,Delaware,87,0,8.9,0,973764,8,79,0,0,0,0,0,37,44,,
+3/30/20,Delaware,264,7,27.1,0.7,973764,8,177,7,0,0,0,0,48,61,,
+4/6/20,Delaware,783,15,80.4,1.5,973764,8,519,8,0,0,0,0,49,67,,
+4/13/20,Delaware,1761,41,180.8,4.2,973764,8,978,26,0,0,0,0,55,71,,
+4/20/20,Delaware,2745,72,281.9,7.4,973764,8,984,31,0,0,0,0,44,58,,
+4/27/20,Delaware,4162,125,427.4,12.8,973764,8,1417,53,0,0,0,0,41,56,,
+5/4/20,Delaware,5288,182,543.1,18.7,973764,8,1126,57,0,0,0,0,52,72,,
