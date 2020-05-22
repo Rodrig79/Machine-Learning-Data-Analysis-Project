@@ -1,0 +1,9 @@
+date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,avg_temp_low,avg_temp_high,y1,y2
+3/16/20,Mississippi,12,0,0.4,0,2976149,70,0,0,1,1,0,0,,,,
+3/23/20,Mississippi,249,1,8.4,0,2976149,70,237,1,2,3,1,2,,,,
+3/30/20,Mississippi,848,16,28.5,0.5,2976149,70,599,15,2,3,1,2,,,,
+4/6/20,Mississippi,1738,51,58.4,1.7,2976149,70,890,35,2,3,1,2,,,,
+4/13/20,Mississippi,2942,98,98.9,3.3,2976149,70,1204,47,2,3,1,2,,,,
+4/20/20,Mississippi,4512,169,151.6,5.7,2976149,70,1570,71,2,3,1,2,,,,
+4/27/20,Mississippi,6094,229,204.8,7.7,2976149,70,1582,60,2,3,1,2,,,,
+5/4/20,Mississippi,7877,310,264.7,10.4,2976149,70,1783,81,2,3,1,2,,,,
