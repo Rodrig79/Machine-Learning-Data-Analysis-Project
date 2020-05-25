@@ -1,10 +1,11 @@
-date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,avg_temp_low,avg_temp_high,y1,y2
-3/9/20,North Carolina,7,0,0.1,0,10488084,108,0,0,0,0,0,0,,,,
-3/16/20,North Carolina,34,0,0.3,0,10488084,108,27,0,0,0,0,0,,,,
-3/23/20,North Carolina,302,0,2.9,0,10488084,108,268,0,0,0,0,0,,,,
-3/30/20,North Carolina,1302,6,12.4,0.1,10488084,108,1000,6,0,0,0,0,,,,
-4/6/20,North Carolina,2870,40,27.4,0.4,10488084,108,1568,34,0,0,0,0,,,,
-4/13/20,North Carolina,4788,91,45.7,0.9,10488084,108,1918,51,0,0,0,0,,,,
-4/20/20,North Carolina,6764,187,64.5,1.8,10488084,108,1976,96,0,0,0,0,,,,
-4/27/20,North Carolina,9035,331,86.2,3.2,10488084,108,2271,144,0,0,0,0,,,,
-5/4/20,North Carolina,11871,454,113.2,4.3,10488084,108,2836,123,10,12,1,1,,,,
+date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,y2,Percent increase
+3/9/20,North Carolina,7,0,0.1,0,10488084,202.6,108,0,0,0,0,0,0,,,
+3/16/20,North Carolina,34,0,0.3,0,10488084,202.6,108,27,0,0,0,0,0,,,
+3/23/20,North Carolina,302,0,2.9,0,10488084,202.6,108,268,0,0,0,0,0,1,,8.925925926
+3/30/20,North Carolina,1302,6,12.4,0.1,10488084,202.6,108,1000,6,0,0,0,0,1,,2.731343284
+4/6/20,North Carolina,2870,40,27.4,0.4,10488084,202.6,108,1568,34,0,0,0,0,0,,0.568
+4/13/20,North Carolina,4788,91,45.7,0.9,10488084,202.6,108,1918,51,0,0,0,0,0,,0.223214286
+4/20/20,North Carolina,6764,187,64.5,1.8,10488084,202.6,108,1976,96,0,0,0,0,0,,0.030239833
+4/27/20,North Carolina,9035,331,86.2,3.2,10488084,202.6,108,2271,144,0,0,0,0,0,,0.149291498
+5/4/20,North Carolina,11871,454,113.2,4.3,10488084,202.6,108,2836,123,10,12,1,1,0,,0.24878908
+,,,,,,,,,,,,,,,,,1.839543415

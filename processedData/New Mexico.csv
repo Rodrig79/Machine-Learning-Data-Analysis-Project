@@ -1,9 +1,10 @@
-date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,avg_temp_low,avg_temp_high,y1,y2
-3/16/20,New Mexico,21,0,1,0,2096829,37,0,0,0,0,0,0,,,,
-3/23/20,New Mexico,83,0,4,0,2096829,37,62,0,0,0,0,0,,,,
-3/30/20,New Mexico,281,4,13.4,0.2,2096829,37,198,4,0,0,0,0,,,,
-4/6/20,New Mexico,686,12,32.7,0.6,2096829,37,405,8,0,0,0,0,,,,
-4/13/20,New Mexico,1345,31,64.1,1.5,2096829,37,659,19,0,0,0,0,,,,
-4/20/20,New Mexico,1971,58,94,2.8,2096829,37,626,27,0,0,0,0,,,,
-4/27/20,New Mexico,2825,104,134.7,5,2096829,37,854,46,0,0,0,0,,,,
-5/4/20,New Mexico,4031,156,192.2,7.4,2096829,37,1206,52,0,0,0,0,,,,
+date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,y2,percent increase
+3/16/20,New Mexico,21,0,1,0,2096829,17.2,37,0,0,0,0,0,0,,,
+3/23/20,New Mexico,83,0,4,0,2096829,17.2,37,62,0,0,0,0,0,,,
+3/30/20,New Mexico,281,4,13.4,0.2,2096829,17.2,37,198,4,0,0,0,0,1,,2.193548387
+4/6/20,New Mexico,686,12,32.7,0.6,2096829,17.2,37,405,8,0,0,0,0,0,,1.045454545
+4/13/20,New Mexico,1345,31,64.1,1.5,2096829,17.2,37,659,19,0,0,0,0,0,,0.627160494
+4/20/20,New Mexico,1971,58,94,2.8,2096829,17.2,37,626,27,0,0,0,0,0,,-0.050075873
+4/27/20,New Mexico,2825,104,134.7,5,2096829,17.2,37,854,46,0,0,0,0,0,,0.364217252
+5/4/20,New Mexico,4031,156,192.2,7.4,2096829,17.2,37,1206,52,0,0,0,0,0,,0.412177986
+,,,,,,,,,,,,,,,,,0.765413799

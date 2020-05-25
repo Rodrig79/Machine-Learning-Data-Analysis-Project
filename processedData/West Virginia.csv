@@ -1,8 +1,9 @@
-date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,avg_temp_low,avg_temp_high,y1,y2
-3/23/20,West Virginia,16,0,0.9,0,1792147,35,0,0,0,0,0,0,,,,
-3/30/20,West Virginia,145,1,8.1,0.1,1792147,35,129,1,0,0,0,0,,,,
-4/6/20,West Virginia,345,4,19.3,0.2,1792147,35,200,3,0,0,0,0,,,,
-4/13/20,West Virginia,638,9,35.6,0.5,1792147,35,293,5,0,0,0,0,,,,
-4/20/20,West Virginia,908,26,50.7,1.5,1792147,35,270,17,0,0,0,0,,,,
-4/27/20,West Virginia,1077,37,60.1,2.1,1792147,35,169,11,0,0,0,0,,,,
-5/4/20,West Virginia,1224,50,68.3,2.8,1792147,35,147,13,0,0,0,0,,,,
+date,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,y2,percent
+3/23/20,West Virginia,16,0,0.9,0,1792147,77.1,35,0,0,0,0,0,0,,,
+3/30/20,West Virginia,145,1,8.1,0.1,1792147,77.1,35,129,1,0,0,0,0,,,
+4/6/20,West Virginia,345,4,19.3,0.2,1792147,77.1,35,200,3,0,0,0,0,0,,0.550387597
+4/13/20,West Virginia,638,9,35.6,0.5,1792147,77.1,35,293,5,0,0,0,0,0,,0.465
+4/20/20,West Virginia,908,26,50.7,1.5,1792147,77.1,35,270,17,0,0,0,0,0,,-0.078498294
+4/27/20,West Virginia,1077,37,60.1,2.1,1792147,77.1,35,169,11,0,0,0,0,0,,-0.374074074
+5/4/20,West Virginia,1224,50,68.3,2.8,1792147,77.1,35,147,13,0,0,0,0,0,,-0.130177515
+,,,,,,,,,,,,,,,,,0.086527543
