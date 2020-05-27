@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent increase
-3/2/2020,0,New York,1,0,0,0,19453561,417,187,0,0,5,5,0,0,0,
-3/9/2020,7,New York,142,0,0.7,0,19453561,417,187,141,0,7,6,1,1,0,
+3/2/2020,0,New York,1,0,0,0,19453561,417,187,0,0,5,5,0,0,0,0
+3/9/2020,7,New York,142,0,0.7,0,19453561,417,187,141,0,7,6,1,1,0,0
 3/16/2020,14,New York,950,10,4.9,0.1,19453561,417,187,808,10,7,7,1,1,1,4.730496454
 3/23/2020,21,New York,20899,183,107.4,0.9,19453561,417,187,19949,173,21,20,2,2,1,23.68935644
 3/30/2020,28,New York,67462,1512,346.8,7.8,19453561,417,187,46563,1329,30,29,3,3,0,1.33410196

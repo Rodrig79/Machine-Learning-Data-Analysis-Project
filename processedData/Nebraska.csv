@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent increase
-2/17/2020,0,Nebraska,10,0,0.5,0,1934408,24.3,26,0,0,1,1,0,0,0,
-2/24/2020,7,Nebraska,12,0,0.6,0,1934408,24.3,26,2,0,1,1,0,0,0,
+2/17/2020,0,Nebraska,10,0,0.5,0,1934408,24.3,26,0,0,1,1,0,0,0,0
+2/24/2020,7,Nebraska,12,0,0.6,0,1934408,24.3,26,2,0,1,1,0,0,0,0
 3/2/2020,14,Nebraska,13,0,0.7,0,1934408,24.3,26,1,0,1,1,0,0,0,-0.5
 3/9/2020,21,Nebraska,16,0,0.8,0,1934408,24.3,26,3,0,1,1,0,0,1,2
 3/16/2020,28,Nebraska,33,0,1.7,0,1934408,24.3,26,17,0,1,1,0,0,1,4.666666667

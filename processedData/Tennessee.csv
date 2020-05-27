@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent
-3/9/2020,0,Tennessee,4,0,0.1,0,6829174,157.5,100,0,0,5,3,0,0,0,
-3/16/2020,7,Tennessee,52,0,0.8,0,6829174,157.5,100,48,0,5,3,0,0,0,
+3/9/2020,0,Tennessee,4,0,0.1,0,6829174,157.5,100,0,0,5,3,0,0,0,0
+3/16/2020,7,Tennessee,52,0,0.8,0,6829174,157.5,100,48,0,5,3,0,0,0,0
 3/23/2020,14,Tennessee,522,2,7.6,0,6829174,157.5,100,470,2,7,4,0,0,1,8.791666667
 3/30/2020,21,Tennessee,1721,13,25.2,0.2,6829174,157.5,100,1199,11,7,4,1,1,0,1.55106383
 4/6/2020,28,Tennessee,3753,65,55,1,6829174,157.5,100,2032,52,7,4,3,3,0,0.694745621

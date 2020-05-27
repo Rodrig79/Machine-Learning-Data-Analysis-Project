@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent increase
-3/9/2020,0,Missouri,1,0,0,0,6137428,87.9,83,0,0,14,12,0,0,0,
-3/16/2020,7,Missouri,9,0,0.2,0,6137428,87.9,83,8,0,14,12,0,0,0,
+3/9/2020,0,Missouri,1,0,0,0,6137428,87.9,83,0,0,14,12,0,0,0,0
+3/16/2020,7,Missouri,9,0,0.2,0,6137428,87.9,83,8,0,14,12,0,0,0,0
 3/23/2020,14,Missouri,183,4,3,0.1,6137428,87.9,83,174,4,15,13,0,0,1,20.75
 3/30/2020,21,Missouri,1049,13,17.1,0.2,6137428,87.9,83,866,9,15,13,0,0,1,3.977011494
 4/6/2020,28,Missouri,2722,56,44.4,0.9,6137428,87.9,83,1673,43,15,13,0,0,0,0.93187067

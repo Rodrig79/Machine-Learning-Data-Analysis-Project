@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,% increase
-3/9/2020,0,Hawaii,2,0,0.1,0,1415872,218.6,14,0,0,4,3,1,1,0,
-3/16/2020,7,Hawaii,10,0,0.7,0,1415872,218.6,14,8,0,4,4,3,1,0,
+3/9/2020,0,Hawaii,2,0,0.1,0,1415872,218.6,14,0,0,4,3,1,1,0,0
+3/16/2020,7,Hawaii,10,0,0.7,0,1415872,218.6,14,8,0,4,4,3,1,0,0
 3/23/2020,14,Hawaii,77,0,5.4,0,1415872,218.6,14,67,0,4,4,3,1,1,7.375
 3/30/2020,21,Hawaii,204,0,14.4,0,1415872,218.6,14,127,0,4,4,3,1,0,0.895522388
 4/6/2020,28,Hawaii,385,5,27.2,0.4,1415872,218.6,14,181,5,4,4,3,1,0,0.42519685
