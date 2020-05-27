@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent
-3/16/2020,0,North Dakota,1,0,0.1,0,762062,10.5,10,0,0,0,0,0,0,0,
-3/23/2020,7,North Dakota,32,0,4.2,0,762062,10.5,10,31,0,0,0,0,0,0,
+3/16/2020,0,North Dakota,1,0,0.1,0,762062,10.5,10,0,0,0,0,0,0,0,0
+3/23/2020,7,North Dakota,32,0,4.2,0,762062,10.5,10,31,0,0,0,0,0,0,0
 3/30/2020,14,North Dakota,108,3,14.2,0.4,762062,10.5,10,76,3,0,0,0,0,0,1.451612903
 4/6/2020,21,North Dakota,225,3,29.5,0.4,762062,10.5,10,117,0,0,0,0,0,0,0.539473684
 4/13/2020,28,North Dakota,331,9,43.4,1.2,762062,10.5,10,106,6,0,0,0,0,0,-0.094017094

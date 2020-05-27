@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent increase
-3/16/2020,0,New Mexico,21,0,1,0,2096829,17.2,37,0,0,0,0,0,0,0,
-3/23/2020,7,New Mexico,83,0,4,0,2096829,17.2,37,62,0,0,0,0,0,0,
+3/16/2020,0,New Mexico,21,0,1,0,2096829,17.2,37,0,0,0,0,0,0,0,0
+3/23/2020,7,New Mexico,83,0,4,0,2096829,17.2,37,62,0,0,0,0,0,0,0
 3/30/2020,14,New Mexico,281,4,13.4,0.2,2096829,17.2,37,198,4,0,0,0,0,1,2.193548387
 4/6/2020,21,New Mexico,686,12,32.7,0.6,2096829,17.2,37,405,8,0,0,0,0,0,1.045454545
 4/13/2020,28,New Mexico,1345,31,64.1,1.5,2096829,17.2,37,659,19,0,0,0,0,0,0.627160494

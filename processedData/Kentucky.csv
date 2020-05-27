@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,% increase
-3/9/2020,0,Kentucky,5,0,0.1,0,4467673,111.3,74,0,0,7,5,0,0,0,
-3/16/2020,7,Kentucky,22,1,0.5,0,4467673,111.3,74,17,1,7,5,0,0,0,
+3/9/2020,0,Kentucky,5,0,0.1,0,4467673,111.3,74,0,0,7,5,0,0,0,0
+3/16/2020,7,Kentucky,22,1,0.5,0,4467673,111.3,74,17,1,7,5,0,0,0,0
 3/23/2020,14,Kentucky,124,3,2.8,0.1,4467673,111.3,74,102,2,8,6,1,1,1,5
 3/30/2020,21,Kentucky,480,11,10.7,0.3,4467673,111.3,74,356,8,8,6,3,2,1,2.490196078
 4/6/2020,28,Kentucky,1057,52,23.7,1.2,4467673,111.3,74,577,41,8,6,3,2,0,0.620786517

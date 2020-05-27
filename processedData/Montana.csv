@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent increase
-3/16/2020,0,Montana,8,0,0.8,0,1068778,7,17,0,0,0,0,0,0,0,
-3/23/2020,7,Montana,45,0,4.2,0,1068778,7,17,37,0,0,0,0,0,0,
+3/16/2020,0,Montana,8,0,0.8,0,1068778,7,17,0,0,0,0,0,0,0,0
+3/23/2020,7,Montana,45,0,4.2,0,1068778,7,17,37,0,0,0,0,0,0,0
 3/30/2020,14,Montana,177,4,16.6,0.4,1068778,7,17,132,4,0,0,0,0,1,2.567567568
 4/6/2020,21,Montana,319,6,29.9,0.6,1068778,7,17,142,2,0,0,0,0,0,0.075757576
 4/13/2020,28,Montana,394,7,36.9,0.7,1068778,7,17,75,1,0,0,0,0,0,-0.471830986

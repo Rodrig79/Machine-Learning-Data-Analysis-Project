@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent
-3/16/2020,0,Wyoming,10,0,1.7,0,578759,6,14,0,0,0,0,0,0,0,
-3/23/2020,7,Wyoming,28,0,4.8,0,578759,6,14,18,0,0,0,0,0,0,
+3/16/2020,0,Wyoming,10,0,1.7,0,578759,6,14,0,0,0,0,0,0,0,0
+3/23/2020,7,Wyoming,28,0,4.8,0,578759,6,14,18,0,0,0,0,0,0,0
 3/30/2020,14,Wyoming,95,0,16.4,0,578759,6,14,67,0,0,0,0,0,1,2.722222222
 4/6/2020,21,Wyoming,212,0,36.6,0,578759,6,14,117,0,0,0,0,0,0,0.746268657
 4/13/2020,28,Wyoming,275,1,47.5,0.2,578759,6,14,63,1,0,0,0,0,0,-0.461538462

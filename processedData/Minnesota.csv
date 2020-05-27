@@ -1,6 +1,6 @@
 date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,% increase
-3/9/2020,0,Minnesota,2,0,0,0,5639632,68.1,55,0,0,11,8,0,0,0,
-3/16/2020,7,Minnesota,54,0,1,0,5639632,68.1,55,52,0,14,12,1,1,0,
+3/9/2020,0,Minnesota,2,0,0,0,5639632,68.1,55,0,0,11,8,0,0,0,0
+3/16/2020,7,Minnesota,54,0,1,0,5639632,68.1,55,52,0,14,12,1,1,0,0
 3/23/2020,14,Minnesota,235,1,4.2,0,5639632,68.1,55,181,1,14,12,2,2,1,2.480769231
 3/30/2020,21,Minnesota,576,10,10.2,0.2,5639632,68.1,55,341,9,15,13,3,3,0,0.883977901
 4/6/2020,28,Minnesota,986,30,17.5,0.5,5639632,68.1,55,410,20,15,13,3,3,0,0.202346041
