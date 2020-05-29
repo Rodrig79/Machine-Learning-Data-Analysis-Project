@@ -1,4 +1,4 @@
-``,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent increase
+date,days,state,cases,deaths,cases_per_capita,deaths_per_capita,population,pop_density,hospitals,increase_cases,increase_deaths,bills_health,bills_econ,health_enacted,econ_enacted,y1,percent increase
 3/9/2020,0,New Jersey,11,0,0.1,0,8882190,"1,210.10",78,0,0,1,1,0,0,0,0
 3/16/2020,7,New Jersey,176,3,2,0,8882190,"1,210.10",78,165,3,14,15,0,0,0,0
 3/23/2020,14,New Jersey,2844,27,32,0.3,8882190,"1,210.10",78,2668,24,19,17,8,6,1,15.16969697
